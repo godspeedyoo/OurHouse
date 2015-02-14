@@ -12,10 +12,10 @@ If you want to work on something out of core hours, check in with group.
 * Use resources...teachers, students, team.
 * Once you're finished, make a pull request but do not merge so that others can review.
 #### Trello Flow
-  * **Todo:** New to-dos/features go in ToDo. Try to keep it concise and put detail within the card
-  * **In-Progress:** When it moves to in-progress, assign members to it so we know who's working on it
-  * **For Review:** When finished, moved to In-Review and make a pull request(if applicable) so that teammates can review
-  * **Pretty Done:** Once it's reviewed, moved to Pretty Done (nothings really ever done...)
+* **Todo:** New to-dos/features go in ToDo. Try to keep it concise and put detail within the card
+* **In-Progress:** When it moves to in-progress, assign members to it so we know who's working on it
+* **For Review:** When finished, moved to In-Review and make a pull request(if applicable) so that teammates can review
+* **Pretty Done:** Once it's reviewed, moved to Pretty Done (nothings really ever done...)
 
 ### Check-Ins
 (Always up for change)
