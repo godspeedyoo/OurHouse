@@ -1,5 +1,5 @@
 # User Stories
-## MVP (I want to)
+### MVP (As a user, I want to)
 - Login with the google
 - Create my house
 - Invite housemates
