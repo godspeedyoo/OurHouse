@@ -5,8 +5,8 @@
 **User Stories:** https://github.com/KidA001/OurHouse/blob/master/UserStories.md
 
 # Resources
-**Pattern Tap** Hundreds of well implimented designs. Can search by category...ie. userlogin, graphs. http://patterntap.com/
-**Building BLocks** Useful snippets of code to implement a profile, login, buttons..etc. http://patterntap.com/code
+**Pattern Tap** Hundreds of well implimented designs. Can search by category...ie. userlogin, graphs. http://patterntap.com/ <br>
+**Building Blocks** Useful snippets of code to implement a profile, login, buttons..etc. http://patterntap.com/code
 
 
 # Agreements
