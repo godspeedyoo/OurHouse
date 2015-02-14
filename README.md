@@ -4,11 +4,11 @@
 **Trello Board:** https://trello.com/b/bqk6B9FF/our-house <br>
 **User Stories:** https://github.com/KidA001/OurHouse/blob/master/UserStories.md
 
-## Stack
-### Server
+### Stack
+#### Server
 Ruby/Rails API
 Postgresql
-### Client
+#### Client
 Angular
 Ionic
 
