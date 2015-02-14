@@ -7,7 +7,8 @@
 # Resources
 **Pattern Tap** 
 - Hundreds of well implimented designs. Can search by category...ie. userlogin, graphs. 
-- http://patterntap.com/ <br>
+- http://patterntap.com/
+
 **Building Blocks** 
 - Useful snippets of code to implement a profile, login, buttons..etc. 
 - http://patterntap.com/code
