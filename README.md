@@ -4,13 +4,9 @@
 **Trello Board:** https://trello.com/b/bqk6B9FF/our-house <br>
 **User Stories:** https://github.com/KidA001/OurHouse/blob/master/UserStories.md
 
-### Stack
-#### Server
-Ruby/Rails API
-Postgresql
-#### Client
-Angular
-Ionic
+# Resources
+**Pattern Tap** Hundreds of well implimented designs. Can search by category...ie. userlogin, graphs. http://patterntap.com/
+**Building BLocks** Useful snippets of code to implement a profile, login, buttons..etc. http://patterntap.com/code
 
 
 # Agreements
